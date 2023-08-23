@@ -13,5 +13,7 @@
 - wut
 
 在安装好devkitPro后
+
 请输入：pacman -Syu, Pacman -Sy wut
+
 随后输入make
