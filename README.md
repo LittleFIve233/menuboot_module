@@ -13,6 +13,9 @@
 2.将99_menuboot.rpx放到sdhc:/wiiu/environments/[ENVIRONMENT]/modules/setup文件夹中
 
 *3.如果你是所谓的特殊人群，要避免回到WiiU Menu，则需要把menuboot.rpx重命名为men.rpx放入sdhc:/wiiu/environments/[ENVIRONMENT]文件夹中以替换默认的WiiU Menu*
+# ToDo
+- 当未发现Title时自动返回WiiU Menu而不是强制死机
+
 # HowTobuild
 你需要：
 - devkitPro
