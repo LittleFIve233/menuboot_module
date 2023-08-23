@@ -1,12 +1,16 @@
 # menuboot_module
 这是一个受邀制作的Wii U自启动模块
 
-99_menuboot.rpx模块被放在sdhc:/wiiu/environments/[ENVIRONMENT]/module/setup/
-99_autoboot.rpx重命名为98_autoboot.rpx
-
 默认release仅仅支持taiko WiiU123，请自行更改titleID并编译使用
 
 此module为特殊人群打造，正常使用者不需要
+
+# HowToUse
+0.需要Aroma或者Tiramisu
+
+1.将99_autoboot.rpx重命名为98_autoboot.rpx
+
+2.将99_menuboot.rpx放到sdhc:/wiiu/environments/[ENVIRONMENT]/module/setup文件夹中
 # HowTobuild
 你需要：
 - devkitPro
