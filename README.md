@@ -5,6 +5,7 @@
 
 此module为特殊人群打造，正常使用者不需要
 
+- 请注意，现无法启动带有更新补丁的软件
 # HowToUse
 0.需要Aroma或者Tiramisu
 
